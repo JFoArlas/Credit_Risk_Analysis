@@ -1,7 +1,7 @@
 # Credit_Risk_Analysis
 
 ## Overview
-The purpose of this analysis was to employ different techniques to train and evaluate machine learning models with unbalanced classes in order to evaluate the performance of each model. Using a credit card credit dataset from LendingClub, a peer-to-peer lending services company, I took the following steps:
+The purpose of this analysis was to employ different techniques to train and evaluate machine learning models with unbalanced classes. Using a credit card credit dataset from LendingClub, a peer-to-peer lending services company, I took the following steps:
 
 1. Oversampled the data using the RandomOverSampler and SMOTE algorithms
 2. Undersampled the data using the ClusterCentroids algorithm
